@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="glyph" x1="80" y1="60" x2="430" y2="450" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#2dd4bf"/>
+<stop offset="1" stop-color="#0f766e"/>
+</linearGradient>
+</defs>
+<rect x="130" y="72" width="252" height="368" rx="52" stroke="url(#glyph)" stroke-width="52"/>
+<rect x="214" y="110" width="84" height="17" rx="8.5" fill="url(#glyph)"/>
+<circle cx="256" cy="381" r="15.5" fill="url(#glyph)"/>
+</svg>
